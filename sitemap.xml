@@ -3,7 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://metamark.app/agb/</loc>
+    <loc>https://metamark.app/license/</loc>
+  </url>
+  
+  <url>
+    <loc>https://metamark.app/markdown/</loc>
   </url>
   
   <url>
